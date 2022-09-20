@@ -228,4 +228,4 @@ def functionname([formal_args,] *var_args_tuple ):
    function_suite
    return [expression]
 ```
-加了星号 `*` 的变量名会存放所有未命名的变量参数。不定长参数实例如下：
+加了星号 `*` 的变量名会存放所有未命名的变量参数。
